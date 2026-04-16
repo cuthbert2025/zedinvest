@@ -1,5 +1,15 @@
 {
-  "bonds": [],
+  "bonds": [
+    {
+      "id": 1776353110415,
+      "name": "ZMW 25,000",
+      "amount": 25000,
+      "rate": 20,
+      "monthly": 0,
+      "date": "2025-04-29",
+      "tenor": 15
+    }
+  ],
   "stocks": [],
   "goals": [
     {
