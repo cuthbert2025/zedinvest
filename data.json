@@ -8,6 +8,15 @@
       "monthly": 0,
       "date": "2025-04-29",
       "tenor": 15
+    },
+    {
+      "id": 1776353205307,
+      "name": "GRZ Bond",
+      "amount": 15000,
+      "rate": 20.2,
+      "monthly": 0,
+      "date": "2025-05-21",
+      "tenor": 15
     }
   ],
   "stocks": [],
