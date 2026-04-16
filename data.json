@@ -1,7 +1,15 @@
 {
   "bonds": [],
   "stocks": [],
-  "goals": [],
+  "goals": [
+    {
+      "id": 1776351067666,
+      "name": "K300,000 by DEC 31 st ",
+      "target": 300000,
+      "date": "2026-12-31",
+      "current": 0
+    }
+  ],
   "settings": {
     "fiTarget": 5000000,
     "defaultRate": 24,
