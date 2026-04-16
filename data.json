@@ -118,7 +118,7 @@
   ],
   "settings": {
     "fiTarget": 4000000,
-    "defaultRate": 24,
+    "defaultRate": 1,
     "wht": 1,
     "fee": 1
   }
