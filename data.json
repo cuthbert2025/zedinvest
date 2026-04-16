@@ -44,6 +44,15 @@
       "monthly": 0,
       "date": "2026-01-26",
       "tenor": 15
+    },
+    {
+      "id": 1776353583985,
+      "name": "ZMW 2000",
+      "amount": 2000,
+      "rate": 27.7,
+      "monthly": 0,
+      "date": "2024-09-02",
+      "tenor": 15
     }
   ],
   "stocks": [],
