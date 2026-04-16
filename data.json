@@ -82,6 +82,15 @@
       "currentPrice": 70,
       "divPerShare": 0,
       "date": "2026-04-16"
+    },
+    {
+      "id": 1776353989302,
+      "name": "ZANACO",
+      "shares": 60,
+      "buyPrice": 9.65,
+      "currentPrice": 9.65,
+      "divPerShare": 0,
+      "date": "2026-04-16"
     }
   ],
   "goals": [
