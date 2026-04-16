@@ -73,6 +73,15 @@
       "currentPrice": 0.73,
       "divPerShare": 0,
       "date": "2026-04-16"
+    },
+    {
+      "id": 1776353957300,
+      "name": "Chilanga",
+      "shares": 17,
+      "buyPrice": 70,
+      "currentPrice": 70,
+      "divPerShare": 0,
+      "date": "2026-04-16"
     }
   ],
   "goals": [
