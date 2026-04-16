@@ -117,7 +117,7 @@
     }
   ],
   "settings": {
-    "fiTarget": 4,
+    "fiTarget": 40,
     "defaultRate": 24,
     "wht": 20,
     "fee": 1
