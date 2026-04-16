@@ -35,6 +35,15 @@
       "monthly": 0,
       "date": "2025-05-27",
       "tenor": 15
+    },
+    {
+      "id": 1776353516943,
+      "name": "ZMW 5400",
+      "amount": 5400,
+      "rate": 18.7,
+      "monthly": 0,
+      "date": "2026-01-26",
+      "tenor": 15
     }
   ],
   "stocks": [],
