@@ -100,6 +100,13 @@
       "target": 300000,
       "date": "2026-12-31",
       "current": 0
+    },
+    {
+      "id": 1776354507942,
+      "name": "Half a Million ZMW 500,000",
+      "target": 500000,
+      "date": "",
+      "current": 0
     }
   ],
   "settings": {
