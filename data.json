@@ -64,6 +64,15 @@
       "currentPrice": 17.47,
       "divPerShare": 0.9,
       "date": "2026-04-16"
+    },
+    {
+      "id": 1776353927989,
+      "name": "CCAF",
+      "shares": 2209,
+      "buyPrice": 0.73,
+      "currentPrice": 0.73,
+      "divPerShare": 0,
+      "date": "2026-04-16"
     }
   ],
   "goals": [
