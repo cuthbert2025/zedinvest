@@ -1,0 +1,11 @@
+{
+  "bonds": [],
+  "stocks": [],
+  "goals": [],
+  "settings": {
+    "fiTarget": 5000000,
+    "defaultRate": 24,
+    "wht": 20,
+    "fee": 1
+  }
+}
