@@ -1,5 +1,15 @@
 {
-  "bonds": [],
+  "bonds": [
+    {
+      "id": 1776351173857,
+      "name": "GRZ Bond",
+      "amount": 1444000,
+      "rate": 24,
+      "monthly": 0,
+      "date": "2026-04-16",
+      "tenor": 5
+    }
+  ],
   "stocks": [],
   "goals": [
     {
