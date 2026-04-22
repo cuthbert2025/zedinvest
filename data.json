@@ -100,6 +100,15 @@
       "currentPrice": 0.35,
       "divPerShare": 0,
       "date": "2026-04-22"
+    },
+    {
+      "id": 1776853221850,
+      "name": "Zambeef PLC",
+      "shares": 107,
+      "buyPrice": 2.1,
+      "currentPrice": 2.1,
+      "divPerShare": 0,
+      "date": "2026-04-22"
     }
   ],
   "goals": [
