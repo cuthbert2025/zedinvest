@@ -53,6 +53,15 @@
       "monthly": 0,
       "date": "2024-09-02",
       "tenor": 15
+    },
+    {
+      "id": 1782630710071,
+      "name": "GRZ Bond",
+      "amount": 301000,
+      "rate": 17.5,
+      "monthly": 0,
+      "date": "2026-06-26",
+      "tenor": 15
     }
   ],
   "stocks": [
